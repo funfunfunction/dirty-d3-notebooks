@@ -1,6 +1,7 @@
 # Dirty D3 Notebooks
 
-Click stuff on the left.
+These are notebooks from the Fun Fun Function Dirty D3 series.
+[Source code on Github](https://github.com/funfunfunction/dirty-d3-notebooks)
 
 ```html
 <iframe
